@@ -8,7 +8,7 @@ image:
   repository: xianfengyuan/fibs-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: e0a6db614d51853de0ae89bf52ef3d68efa18896
+  tag: 21629e4afe24e7dffb5c25413661340ab4372dd3
 
 imagePullSecrets: []
 nameOverride: ""
